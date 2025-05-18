@@ -1,2 +1,4 @@
 .idea
 .vscode
+database/
+__pycache__/
